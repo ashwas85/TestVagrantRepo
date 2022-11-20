@@ -16,10 +16,10 @@ PROBLEM TO SOLVE
 
 ## Running the tests
 
-Run #RunnerFile.java as test-Ng file.
+Run # RunnerFile.java as test-Ng file.
 
 #### Validation covered:-
-Test validates there is only 4 foreign players in the given json.
-Test validates there is more than one wicket keeper in the given json.
+- Test validates there is only 4 foreign players in the given json.
+- Test validates there is more than one wicket keeper in the given json.
 
 ### Note:- In configuration.properties file we can set the expected condition.
