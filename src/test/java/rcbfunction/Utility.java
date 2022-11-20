@@ -50,7 +50,7 @@ public class Utility extends ReadProperty {
 	public void assertTrue(int a, int b) {
 		SoftAssert softassert = new SoftAssert();
 
-		softassert.assertTrue(a >= b);
+		softassert.assertTrue(a >b);
 		softassert.assertAll();
 
 	}
