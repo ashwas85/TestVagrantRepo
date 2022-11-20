@@ -1,7 +1,7 @@
 
 # TestVagrant Assignment
 
-PROBLEM TO SOLVE
+## PROBLEM TO SOLVE
 - Write a test that validates that the team has only 4 foreign players
 - Write a test that validates that there is at least one wicket keeper
 
@@ -16,7 +16,7 @@ PROBLEM TO SOLVE
 
 ## Running the tests
 
-Run # RunnerFile.java as test-Ng file.
+Run RunnerFile.java as test-Ng file.
 
 #### Validation covered:-
 - Test validates there is only 4 foreign players in the given json.
