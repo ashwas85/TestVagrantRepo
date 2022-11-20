@@ -1,11 +1,11 @@
 
 # TestVagrant Assignment
 
-## PROBLEM TO SOLVE
+### PROBLEM TO SOLVE
 - Write a test that validates that the team has only 4 foreign players
 - Write a test that validates that there is at least one wicket keeper
 
-## Files location
+### Files location
 
 - Given Json is under /rcbteamvalidation/src/test/java/rcbteam/data
 - All the reusable code is under /rcbteamvalidation/src/test/java/rcbfunction/Utility.java
@@ -14,11 +14,11 @@
 - Code to read the properties are under /rcbteamvalidation/src/test/java/rcbfunction/ReadProperty.java
 - Test cases are under /rcbteamvalidation/src/test/java/rcbfunction/RunnerFile.java
 
-## Running the tests
+### Running the tests
 
 Run RunnerFile.java as test-Ng file.
 
-#### Validation covered:-
+### Validation covered:-
 - Test validates there is only 4 foreign players in the given json.
 - Test validates there is more than one wicket keeper in the given json.
 
